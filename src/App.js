@@ -1,3 +1,8 @@
-import React from 'react';
+﻿import React from 'react';
+import {StoriesContainer} from './containers/StoriesContainer'
+//よくコーヒーをのみます。
 
-export const App() => <p>Hello</p>
+
+export const App = () => {
+	return <p>{JSON.stringify(StoriesContainer)}</p>;
+};
