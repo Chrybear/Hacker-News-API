@@ -3,10 +3,14 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\components",
     "\\src\\containers",
-    "\\src\\services"
+    "\\src\\fixtures",
+    "\\src\\mappers",
+    "\\src\\selectors",
+    "\\src\\services",
+    "\\src\\styles",
+    "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\components\\Story.js",
+  "SelectedNode": "\\public\\Incognito_Kong.png",
   "PreviewInSolutionExplorer": false
 }
