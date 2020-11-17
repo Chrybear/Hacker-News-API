@@ -15,16 +15,17 @@ export const StoryWrapper = styled.section`
 
 export const StoryTitle = styled.h1`
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 23px;
   line-height: 1.8;
   margin: 0;
   text-decoration: none;
   a {
     color: #2e2e2c;
-    background-color: #f8dc3d;
+    background-color: #21d139;
     text-decoration: none;
   }
 `;
+
 
 export const StoryMeta = styled.div`
   font-style: italic;
